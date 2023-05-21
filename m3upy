@@ -1,4 +1,24 @@
 #EXTM3U
+#EXTINF:-1 tvg-id="ABCTVParaguay.py" tvg-logo="https://www.abc.com.py/pf/resources/images/logo-abc.svg?d=1516" group-title="Undefined",ABC TV (720p)
+https://d2e809bgs49c6y.cloudfront.net/live/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851/live.ismSNTl/d87c2b7b-9ecf-4e6e-b63b-b32772bd7851.m3u8
+#EXTINF:-1 tvg-id="sntTVParaguay.py" tvg-logo="https://www.snt.com.py/wp-content/uploads/2022/04/SNT-_Logo.png" group-title="Undefined",snt TV 
+https://d1263956mchuq3.cloudfront.net/hls/snt_360.m3u8
+#EXTINF:-1,C9N
+http://170.83.242.155:5350/play/a022
+#EXTINF:-1,La Tele
+http://170.83.242.155:5350/play/a00j
+#EXTINF:-1,NPY
+http://170.83.242.155:5350/play/a024
+#EXTINF:-1,PARAVISION
+http://170.83.242.155:5350/play/a021
+#EXTINF:-1,ParaguayTV
+http://170.83.242.155:5350/play/a01o
+#EXTINF:-1,RCN Novelas
+http://170.83.242.155:5350/play/a016
+#EXTINF:-1,SNT
+http://170.83.242.155:5350/play/a03d
+#EXTINF:-1,SURTV
+http://170.83.242.155:5350/play/a025
 #EXTINF:-1,AE Mundo
 http://170.83.242.155:5350/play/a00y
 #EXTINF:-1,AXN
@@ -13,8 +33,6 @@ http://170.83.242.155:5350/play/a01l
 http://170.83.242.155:5350/play/a00p
 #EXTINF:-1,BabyFirst
 http://170.83.242.155:5350/play/a0mg
-#EXTINF:-1,C9N
-http://170.83.242.155:5350/play/a022
 #EXTINF:-1,CNN Chile
 http://170.83.242.155:5350/play/a036
 #EXTINF:-1,Canal Estrellas
@@ -77,28 +95,14 @@ http://170.83.242.155:5350/play/a02z
 http://170.83.242.155:5350/play/a01c
 #EXTINF:-1,I-Sat
 http://170.83.242.155:5350/play/a0va
-#EXTINF:-1,La Tele
-http://170.83.242.155:5350/play/a00j
-#EXTINF:-1,NPY
-http://170.83.242.155:5350/play/a024
 #EXTINF:-1,Nat Geo
 http://170.83.242.155:5350/play/a02y
 #EXTINF:-1,Nick Jr
 http://170.83.242.155:5350/play/a00e
 #EXTINF:-1,Nickelodeon
 http://170.83.242.155:5350/play/a02w
-#EXTINF:-1,PARAVISION
-http://170.83.242.155:5350/play/a021
-#EXTINF:-1,ParaguayTV
-http://170.83.242.155:5350/play/a01o
-#EXTINF:-1,RCN Novelas
-http://170.83.242.155:5350/play/a016
-#EXTINF:-1,SNT
-http://170.83.242.155:5350/play/a03d
 #EXTINF:-1,STAR CHANNEL
 http://170.83.242.155:5350/play/a037
-#EXTINF:-1,SURTV
-http://170.83.242.155:5350/play/a025
 #EXTINF:-1,Sony
 http://170.83.242.155:5350/play/a003
 #EXTINF:-1,Space
