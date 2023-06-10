@@ -7,4 +7,11 @@ https://d1263956mchuq3.cloudfront.net/hls/snt_360.m3u8
 https://copacotf.desdeparaguay.net/telefuturo/telefuturo_py_baja/chunklist_w1124827429.m3u8?k=fbc342a3ae5d80ddd7f7a3ed68a01d78d7ae6a8d3c011b912d3c45daac8570df&exp=1684378961
 #EXTINF:-1 tvg-id="unicanal" tvg-logo="https://unicanal.com.py/wp-content/uploads/2021/11/logo-1.png" group-title="Undefined",telefuturo TV 
 https://copacogen.desdeparaguay.net/unicanal/unicanal_baja/chunklist_w1887776689.m3u8?k=ed11f52822770b0bb0656af578a3f5bfeea0ebf920f4b42a0c5ee5db0876c41c&exp=1684383568
-
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN (360p)
+http://stream.tvtap.live:8081/live/espnusahd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN.us" tvg-name="ESPN" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/GhhN8mW.png",ESPN (720p)
+https://content.uplynk.com/channel/d0695f6fa2f143eb95c7a41d96d581c4.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png",ESPN 2 (360p)
+http://stream.tvtap.live:8081/live/espn2hd.stream/playlist.m3u8
+#EXTINF:-1 tvg-id="ESPN2.us" tvg-name="ESPN 2" tvg-country="US" tvg-language="English" tvg-logo="https://i.imgur.com/CTgGetu.png",ESPN 2 (720p)
+http://stream2.grandma.fit/espn2.m3u8
